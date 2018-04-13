@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">London Vegan Guide</string>
+    <string name="Restaurants">Restaurants</string>
+    <string name="Bars">Bars</string>
+    <string name="Shops">Shops</string>
+    <string name="Festivals">Festivals</string>
+    <string name="spead_eagle_description">The Spread Eagle is a Vegan pub in East London</string>
+    <string name="spread_eagle_web">https://www.thespreadeaglelondon.co.uk</string>
+    <string name="karamel_description">Karamel is a vegan bar, restaurant, music venue in North London</string>
+    <string name="karamel_web">http://karamelrestaurant.com</string>
+    <string name="vegfest_description">VegFest is one of the biggest festivals</string>
+    <string name="vegfest_web">https://london.vegfest.co.uk</string>
+    <string name="viva_description">Viva Festival also prints a magazine</string>
+    <string name="viva_web">https://www.viva.org.uk/festivals/london-shoreditch-2018</string>
+    <string name="life_description">Vegan Life Live is at Ally Pally</string>
+    <string name="life_web">https://london.veganlifelive.com</string>
+    <string name="cat_description">Black Cat is a nice vegan restaurant in Hackney</string>
+    <string name="cat_web">https://blackcatcafe.co.uk</string>
+    <string name="temple_description">Temple of Seitan is a great place to eat fried vegan chicken</string>
+    <string name="temple_web">http://templeofseitan.co.uk</string>
+    <string name="zen_description">Itadaki Zen has vegan versions of Japanese and Korean dishes</string>
+    <string name="zen_web">http://www.itadakizen-uk.com</string>
+    <string name="twotwotwo_description">222 in West London has an amazing lunchtime buffet</string>
+    <string name="twotwotwo_web">http://www.222vegan.com</string>
+    <string name="tibits_description">Tibits is a very expensive Swiss vegan buffet restaurant</string>
+    <string name="tibits_web">https://www.tibits.ch/en/home.html</string>
+    <string name="icco_description">Icco Pizza has some amazing vegan pizzas and is affordably priced</string>
+    <string name="icco_web">https://icco.co.uk</string>
+    <string name="hut_description">Loving Hut has vegan versions of various Chinese specialities</string>
+    <string name="hut_web">https://archway.lovinghut.co.uk</string>
+    <string name="picky_description">Picky Wops is 100% pizza place</string>
+    <string name="picky_web">https://www.pickywops.com/menu/</string>
+    <string name="bay_description">GreenBay is a 100% Vegan supermarket</string>
+    <string name="bay_web">https://www.greenbaysupermarket.co.uk</string>
+    <string name="planet_description">Planet Organic has many vegan products</string>
+    <string name="planet_web">http://www.planetorganic.com/vegetarian-vegan/</string>
+</resources>
